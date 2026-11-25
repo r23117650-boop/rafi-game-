@@ -1,0 +1,6 @@
+{
+  "name": "Pitch 11",
+  "description": "2D 11v11 tactical football with smooth movement physics and an interactive penalty shootout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
